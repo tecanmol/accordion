@@ -30,6 +30,7 @@
 ## How to Contribute
 
 Feel free to fork the repository and submit pull requests with improvements or additional questions related to the Haridwar to Rishikesh yatra.
+https://roadmap.sh/projects/accordion
 
 ---
 
